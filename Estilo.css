@@ -9,7 +9,8 @@ body {
 #h1{
 font-family: "Cinzel", serif;
 font-size: 60px;
-font-style: normal;
+color: rgb(214, 86, 0);
+
 }
 
 /* === Parrafos, Servicio, id Button === */
@@ -21,6 +22,7 @@ font-style: normal;
 #button{    
     font-family: "Slabo 27px", serif;
     font-size: 25px;   
+    color: rgb(103, 30, 187);
 }
 
 /* === id contactos === */
